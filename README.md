@@ -61,6 +61,5 @@ The versions we used for the first and the third datasets are already in the `da
   journal={arXiv preprint arXiv:2205.10932},
   year={2022}
 }
-}
 ```
 	
